@@ -1,5 +1,3 @@
-# Account Date Checker
-
 **A simple Python script to check your Xiaomi account creation date**
 
 ## Requirements
