@@ -1,8 +1,7 @@
-**A simple Python script to check your Xiaomi account creation date**
+# MiSnippets
 
-## Requirements
-- Python 3.x
-- `requests`: `pip install requests`
+A collection of small, independent scripts and notes related to Xiaomi
 
-## Usage
-Run: `python xadc.py`.
+## Contents
+
+- **[account-date-checker](./account-date-checker)**  Check your Xiaomi account creation date.
