@@ -1,6 +1,4 @@
-# MiSnippets
-
-A collection of small, independent scripts and notes related to Xiaomi
+**A collection of small, independent scripts and notes related to Xiaomi**
 
 ## Contents
 
